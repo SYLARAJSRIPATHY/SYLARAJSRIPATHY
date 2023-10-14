@@ -6,7 +6,7 @@ Multidisciplinary background in programming and mechanical engineering.
 
 🛠️ Tech Stack
 
-Languages: Python, C++
+Languages: Python, C++.
 Robotics: ROS, Ai, Machine vission
 Cybersecurity: Network Security, Ethical Hacking
 Software and web development.
